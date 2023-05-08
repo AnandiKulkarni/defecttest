@@ -13,6 +13,9 @@
   "unpublishedCustomJSLibs": [
     {
       "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    },
+    {
+      "uidString": "amplitude_https://cdn.jsdelivr.net/npm/@amplitude/analytics-browser@1.6.1/lib/scripts/amplitude-min.umd.js"
     }
   ],
   "publishedCustomJSLibs": [],
